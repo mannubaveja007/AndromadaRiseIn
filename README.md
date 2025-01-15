@@ -18,7 +18,7 @@ This project is a decentralized grocery store built on the Andromeda Protocol. I
 - **Transaction History**: Comprehensive logs for all purchases and sales.
 
 ## Embeddable Links
-- [Live Demo](#) (Add your live demo link here)
+- [Live Demo](#) ([Add your live demo link here](https://embeddables.testnet.andromedaprotocol.io/galileo-4/Mannu-Coin))
 
 ## Screenshots (Optional)
 *(Include screenshots here to showcase your project visually)*
