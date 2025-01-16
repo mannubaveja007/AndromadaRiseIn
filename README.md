@@ -20,8 +20,6 @@ This project is a decentralized grocery store built on the Andromeda Protocol. I
 ## Embeddable Links
 - [Live Demo](#) ([Add your live demo link here](https://embeddables.testnet.andromedaprotocol.io/galileo-4/Mannu-Coin))
 
-## Screenshots (Optional)
-*(Include screenshots here to showcase your project visually)*
 
 ## Future Scope
 - **Mobile App Integration**: Expanding the platform to mobile devices for greater accessibility.
